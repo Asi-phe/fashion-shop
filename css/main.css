@@ -1,0 +1,43 @@
+ 
+ 
+ 
+body, html {
+  margin:0;
+  padding:0;
+  height: 100%;
+}
+
+
+.who-we-are{
+  margin:10px;
+  padding:10px;
+}
+.img-fluid{
+  margin:15px;
+  padding:15px;
+}
+
+.intro-2 {
+    background: url("https://mdbootstrap.com/img/Photos/Others/img (40).jpg")no-repeat center center;
+    background-size: cover;
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+.top-nav-collapse {
+    background-color: #4285F4;
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #4285F4;
+    }
+}
+html,
+body,
+header,
+.view {
+    height: 100%;
+}
