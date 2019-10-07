@@ -46,3 +46,34 @@ header,
 .view {
     height: 100%;
 }
+
+.container{
+  align-self: center;
+}
+
+h3{
+  margin: 50px;
+  padding: 50px;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Hind', sans-serif;
+}
+
+.carouselslide > .item > img{
+  margin:auto;
+  }
+
+  h4{
+    margin: 15px;
+    padding: 15px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Hind', sans-serif;
+  }
+
+  .fab {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
