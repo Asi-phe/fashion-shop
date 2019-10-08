@@ -77,3 +77,10 @@ h3{
     text-decoration: none;
     border-radius: 50%;
   }
+
+  .carousel-item{
+    margin-left:20%;
+  }
+  .d-block{
+    margin-left:20%;
+  }
